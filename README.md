@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/yanchuiko21/yanchuiko21/assets/115407436/46ead1e3-80a9-4960-a356-52a0b5f4c47b" alt="gif" />
+  <img src="https://github.com/yanchuiko21/yanchuiko21/assets/115407436/d058cd31-85ee-404c-ad4f-61ee4320fa1b" alt="gif" />
 </div>
 
 ---
