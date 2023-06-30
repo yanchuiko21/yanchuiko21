@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yan Chuiko</h1>
+<div align="center">
+  <img src="https://github.com/yanchuiko21/yanchuiko21/assets/115407436/46ead1e3-80a9-4960-a356-52a0b5f4c47b" alt="gif" />
+</div>
 
+---
 <p align="left">
   Passionate Software Engineering student with a strong foundation in computer science and a drive to develop innovative solutions. I am currently pursuing my BSc Software Engineering degree at Anglia Ruskin University in Cambridge. Through my projects that I created, I have gained expertise in programming languages such as C, Java, Python, SQL as well as experience in software development methodologies and tools (Git, GitHub, etc.).
 </p>
@@ -29,8 +32,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+  <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40" />
   </a>
 </p>
 
