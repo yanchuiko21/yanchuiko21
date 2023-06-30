@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://github.com/yanchuiko21/yanchuiko21/assets/115407436/d058cd31-85ee-404c-ad4f-61ee4320fa1b" alt="gif" />
-</div>
+<h1 align="center">Welcome to my profile!</h1>
 
 ---
 <p align="left">
-  Passionate Software Engineering student with a strong foundation in computer science and a drive to develop innovative solutions. I am currently pursuing my BSc Software Engineering degree at Anglia Ruskin University in Cambridge. Through my projects that I created, I have gained expertise in programming languages such as C, Java, Python, SQL as well as experience in software development methodologies and tools (Git, GitHub, etc.).
+  My name is Yan Chuiko and I'm passionate Software Engineering student with a strong foundation in computer science and a drive to develop innovative solutions. I am currently pursuing my BSc Software Engineering degree at Anglia Ruskin University in Cambridge. Through my projects that I created, I have gained expertise in programming languages such as C, Java, Python, SQL as well as experience in software development methodologies and tools (Git, GitHub, etc.).
 </p>
 
 <p align="left">
