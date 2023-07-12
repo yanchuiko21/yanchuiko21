@@ -53,21 +53,13 @@
 
 <h3 align="left">Statistics:</h3>
 <p align="left">
-  <a href="https://github.com/yanchuiko21">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanchuiko21&theme=github_dark" />
-  </a>
-  <a href="https://github.com/yanchuiko21">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanchuiko21&hide_border=true&card_width=338&theme=github_dark" />
-  </a>
-  <a href="https://github.com/yanchuiko21">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanchuiko21&theme=github_dark" />
-  </a>
-</p>
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanchuiko21&show_icons=true&locale=en&theme=dark" alt="yanchuiko21" />
-</p>
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanchuiko21&show_icons=true&locale=en&layout=compact&theme=dark" alt="yanchuiko21" />
+  <p align="center">
+    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanchuiko21&theme=github_dark" />
+  </p>
+  <p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yanchuiko21&show_icons=true&locale=en&theme=dark" alt="yanchuiko21" />
+  </p>
+  <p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanchuiko21&show_icons=true&locale=en&layout=compact&theme=dark" alt="yanchuiko21" />
+  </p>
 </p>
