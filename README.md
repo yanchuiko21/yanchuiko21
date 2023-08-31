@@ -1,7 +1,12 @@
 <h1 align="center">Welcome to my profile!</h1>
 
 ---
-My name is Yan Chuiko, a passionate Software Engineering student with a strong foundation in computer science and a drive to develop innovative solutions. I am currently pursuing my BSc in Software Engineering degree at Anglia Ruskin University in Cambridge. Through my projects, I have gained expertise in programming languages such as C, Java, Python, SQL, as well as experience in software development methodologies and tools (Git, GitHub, etc.).
+My name is Yan Chuiko, a passionate Software Engineering student with a strong foundation in Computer Science and a drive to develop innovative solutions. I am currently pursuing my BSc Software Engineering degree at Anglia Ruskin University in Cambridge. Through my projects that I created, I have gained expertise in such area as:
+
+Backend: C, Java, Python <br>
+Frontend: HTML, CSS, JavaScript <br>
+Databases: MySQL <br>
+Other: GitHub, Git <br>
 
 As an aspiring Software Engineer, I am looking for an internship that will help me practice my skills and learn something new in the IT field.
 
@@ -17,6 +22,15 @@ I would be very happy to connect and collaborate with you!
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
