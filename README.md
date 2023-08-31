@@ -60,5 +60,3 @@ I would be very happy to connect and collaborate with you!
 ### Statistics:
 
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanchuiko21&theme=github_dark" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanchuiko21&show_icons=true&locale=en&layout=compact&theme=dark" alt="yanchuiko21" />
