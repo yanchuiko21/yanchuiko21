@@ -6,7 +6,7 @@ My name is Yan Chuiko, a passionate Software Engineering student with a strong f
 Backend: C, Java, Python <br>
 Frontend: HTML, CSS, JavaScript <br>
 Databases: MySQL <br>
-Other: GitHub, Git <br>
+Others: GitHub, Git <br>
 
 As an aspiring Software Engineer, I am looking for an internship that will help me practice my skills and learn something new in the IT field.
 
