@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 
 ---
-My name is Yan Chuiko, a passionate Software Engineering student with a strong foundation in Computer Science and a drive to develop innovative solutions. I am currently pursuing my BSc Software Engineering degree at Anglia Ruskin University in Cambridge. Through my projects that I created, I have gained expertise in such area as:
+My name is Yan Chuiko, a passionate Software Engineering student with a strong foundation in Computer Science and a drive to develop innovative solutions. I am currently pursuing my BSc Software Engineering degree at Anglia Ruskin University in Cambridge. Through my projects that I created, I have gained experience in areas such as:
 
 Backend: C, Java, Python <br>
 Frontend: HTML, CSS, JavaScript <br>
