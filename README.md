@@ -6,7 +6,7 @@ Passionate Software Engineering student with a strong foundation in Computer Sci
 Backend: C, Java, Python<br>
 Frontend: HTML, CSS, JavaScript<br>
 Databases: MySQL, PostgreSQL, MongoDB<br>
-Tools: Git&GitHub, Jira, Slack<br>
+Tools: Git & GitHub, Jira, Slack<br>
 
 As an aspiring Software Engineer, I am looking for an internship which will help practice my skills and help me to learn something new in the IT field. I would be very happy to connect and collaborate with you!
 
